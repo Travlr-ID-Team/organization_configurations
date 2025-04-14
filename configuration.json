@@ -2,15 +2,15 @@
   "scania": {
     "personal_contact": {
       "email1": true,
-      "email2": false,
-      "email3": true,
+      "email2": true,
+      "email3": false,
       "phonenumber": true,
-      "phonenumber1": true,
-      "phonenumber2": true,
-      "country": true,
-      "city": false,
-      "postal_code": true,
-      "street_address": false
+      "phonenumber1": false,
+      "phonenumber2": false,
+      "country": false,
+      "city": true,
+      "postal_code": false,
+      "street_address": true
     }
   }
 }
