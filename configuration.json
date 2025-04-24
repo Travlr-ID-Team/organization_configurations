@@ -12,5 +12,19 @@
       "postal_code": false,
       "street_address": true
     }
+  },
+  "google": {
+    "personal_contact": {
+      "email1": true,
+      "email2": false,
+      "email3": false,
+      "phonenumber": true,
+      "phonenumber1": false,
+      "phonenumber2": false,
+      "country": true,
+      "city": true,
+      "postal_code": true,
+      "street_address": true
+    }
   }
 }
