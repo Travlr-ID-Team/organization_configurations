@@ -26,5 +26,19 @@
       "postal_code": true,
       "street_address": true
     }
+  },
+  "amazon": {
+    "personal_contact": {
+      "email1": true,
+      "email2": true,
+      "email3": true,
+      "phonenumber": false,
+      "phonenumber1": false,
+      "phonenumber2": false,
+      "country": false,
+      "city": false,
+      "postal_code": false,
+      "street_address": false
+    }
   }
 }
